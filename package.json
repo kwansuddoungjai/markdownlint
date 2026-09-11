@@ -82,7 +82,7 @@
     "eslint-plugin-unicorn": "48.0.1",
     "gemoji": "8.1.0",
     "globby": "13.2.2",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.3.2",
     "markdown-it-for-inline": "0.1.1",
     "markdown-it-sub": "1.0.0",
     "markdown-it-sup": "1.0.0",
